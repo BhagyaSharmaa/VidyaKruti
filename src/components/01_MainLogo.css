@@ -1,0 +1,14 @@
+/* MainLogo.css */
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotatingLogo {
+  opacity: 0.3; /* Set the opacity */
+  animation: rotate 20s linear infinite; /* Apply the rotation animation */
+}

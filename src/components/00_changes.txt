@@ -1,0 +1,9 @@
+1.) Navbar 
+2.) First panel issue, keep gradient static all ove rpage 
+3.) First panel tagline add, krdo 2 din mein soch ke hitakshi batayegi
+4.) remove know more
+5.) Services page --> Change 
+6.) testimonials color change  
+7.) Footer 
+8.) Kal shaam takk (hitakshi)
+9.) 
